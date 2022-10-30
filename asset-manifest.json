@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://ola-rotimi.github.io/csb-su866q/static/css/main.8ecbf1b9.chunk.css",
+    "main.js": "https://ola-rotimi.github.io/csb-su866q/static/js/main.c5fab7b8.chunk.js",
+    "main.js.map": "https://ola-rotimi.github.io/csb-su866q/static/js/main.c5fab7b8.chunk.js.map",
+    "runtime-main.js": "https://ola-rotimi.github.io/csb-su866q/static/js/runtime-main.7c7ff8d9.js",
+    "runtime-main.js.map": "https://ola-rotimi.github.io/csb-su866q/static/js/runtime-main.7c7ff8d9.js.map",
+    "static/js/2.f2359780.chunk.js": "https://ola-rotimi.github.io/csb-su866q/static/js/2.f2359780.chunk.js",
+    "static/js/2.f2359780.chunk.js.map": "https://ola-rotimi.github.io/csb-su866q/static/js/2.f2359780.chunk.js.map",
+    "index.html": "https://ola-rotimi.github.io/csb-su866q/index.html",
+    "static/css/main.8ecbf1b9.chunk.css.map": "https://ola-rotimi.github.io/csb-su866q/static/css/main.8ecbf1b9.chunk.css.map",
+    "static/js/2.f2359780.chunk.js.LICENSE.txt": "https://ola-rotimi.github.io/csb-su866q/static/js/2.f2359780.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7c7ff8d9.js",
+    "static/js/2.f2359780.chunk.js",
+    "static/css/main.8ecbf1b9.chunk.css",
+    "static/js/main.c5fab7b8.chunk.js"
+  ]
+}
